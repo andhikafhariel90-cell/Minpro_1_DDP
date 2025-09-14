@@ -6,7 +6,8 @@ NIM  : 2509116083
 Sistem Informasi kelas C 25
 
 # Flowchart Minpro Data Karyawan
-<img width="1217" height="1053" alt="Minpro_1_DDP drawio (1)" src="https://github.com/user-attachments/assets/912938fe-b2fc-4010-b344-6370fe40d850" />
+<img width="1217" height="1044" alt="Minpro_1_DDP drawio (2)" src="https://github.com/user-attachments/assets/bbaa9a2e-b48b-4e75-a6a6-9593bd39bd21" />
+
 
 # Output Menu
 <img width="1052" height="328" alt="image" src="https://github.com/user-attachments/assets/c1efb91b-5b8c-46f1-a234-a0061002c69b" />
